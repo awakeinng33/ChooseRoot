@@ -1,0 +1,9 @@
+D:\Законченные проекты\ChooseRootProj\ChooseRootProj\bin\Debug\ChooseRootProj.exe.config
+D:\Законченные проекты\ChooseRootProj\ChooseRootProj\bin\Debug\ChooseRootProj.exe
+D:\Законченные проекты\ChooseRootProj\ChooseRootProj\bin\Debug\ChooseRootProj.pdb
+D:\Законченные проекты\ChooseRootProj\ChooseRootProj\obj\Debug\ChooseRootProj.csprojResolveAssemblyReference.cache
+D:\Законченные проекты\ChooseRootProj\ChooseRootProj\obj\Debug\ChooseRootProj.Form1.resources
+D:\Законченные проекты\ChooseRootProj\ChooseRootProj\obj\Debug\ChooseRootProj.Properties.Resources.resources
+D:\Законченные проекты\ChooseRootProj\ChooseRootProj\obj\Debug\ChooseRootProj.csproj.GenerateResource.Cache
+D:\Законченные проекты\ChooseRootProj\ChooseRootProj\obj\Debug\ChooseRootProj.exe
+D:\Законченные проекты\ChooseRootProj\ChooseRootProj\obj\Debug\ChooseRootProj.pdb
